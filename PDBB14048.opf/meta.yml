@@ -1,0 +1,31 @@
+id: PDBB14048
+initial_creation_type: input
+source_metadata:
+  title: Supplement to the autobiography of sTag tshang lo tsā ba Shes rab rin chen
+    (1405–1477)
+  author: འཇམ་དབྱངས་ཆོས་ཀྱི་དཔལ་འབྱོར།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-08-03);
+    revision in process, no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by the Paltsek Research
+    Institute. (src)
+  - Text input:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (Lhasa) (eds)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (eds)
+  text_witnesses: https://sakyaresearch.org/sources/178
+  bases:
+    a74e:
+      title: Supplement to the autobiography of sTag tshang lo tsā ba Shes rab rin
+        chen (1405–1477)
+      order: 1
+      base_file: a74e.txt
+created_at: '2022-04-15T18:42:52.752713'
+last_modified_at: '2022-04-15T18:42:52.752720'
+quality: null
